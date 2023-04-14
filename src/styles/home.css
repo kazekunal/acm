@@ -8,7 +8,7 @@
 .home_button {
     border: 1px solid black;
     width: 230px;
-    margin-top: 10px;
+    margin-top: 8rem;
     border-radius: 20px;
     margin-left: 37rem;
 }
@@ -27,7 +27,7 @@
 
 .home_heading>p {
     margin-top: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
 }
 
 .business {
@@ -39,9 +39,15 @@
     background-color: #FF247D;
     height: 40vh;
     position: absolute;
-    margin-top: 92vh;
+    margin-top: 41vh;
 }
 
 .home_image{
     position: relative;
 }
+
+.home_image>img{
+    border-radius: 2px;
+    width: 70rem;
+}
+

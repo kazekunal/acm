@@ -15,9 +15,7 @@ function home() {
             Turn your audience <br/><span className='business'> into a  business </span> 
         </p>
     </div>
-    <div className='home_background'>
-
-    </div>
+    <div className='home_background'></div>
     <div className='home_image'>
         <img src={background_image} alt='img'/>
     </div>
