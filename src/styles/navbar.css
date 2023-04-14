@@ -1,0 +1,45 @@
+
+
+.navbar_main_container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.list_container>p{
+    margin-right: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #687206;
+    font-family: 'Inter', sans-serif;
+}
+
+.list_container{
+    display: flex;
+    flex-direction: row;
+}
+
+.signup_container{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 1px 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.logo_container{
+    width: 20%;
+    align-items: center;
+}
+
+.list_signup{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
