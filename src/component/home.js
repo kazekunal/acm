@@ -2,12 +2,12 @@ import React from 'react'
 import '../styles/home.css'
 import background_image from '../assets/dashboard-image.png'
 
-function home() {
+function Home() {
   return (
     <>
     <div className='home_button'>
         <p>
-            Just launched ghost 3.0
+            Just launched ghost 5.0
         </p>
     </div>
     <div className='home_heading'>
@@ -23,4 +23,4 @@ function home() {
   )
 }
 
-export default home
+export default Home
